@@ -1,6 +1,6 @@
 """
 Nome do desenvolvedor: Isabela Garcia Tissianel
-Data: 
+Data: 28/10/2023
 Exercício: Programa 2 - Faça um Programa que leia um lista de 10 números reais e mostre-os na ordem inversa.
 """
 

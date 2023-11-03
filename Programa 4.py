@@ -11,13 +11,19 @@ print("--------------------------------------------------")
 
 #Variáveis
 letras = [ ]
-for i in range(10):
-    letra= str(input("Insira uma letra: "))
-    letras.append(letra)
-    
+tam = 0
 
 #Lógica
-
+for i in range(10):
+    letra = str(input("Insira uma letra: "))
+    if not(letra == "a" or letra == "e" or letra == "i" or letra == "o" or letra == "u"):
+        letras.append(letra)
+        tam = tam + 1
 
 #Resultado
+print(letras)
+print("Quantidade de consoantes: ", tam)        
+
+
+
 

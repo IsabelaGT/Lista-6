@@ -1,6 +1,6 @@
 """
 Nome do desenvolvedor: Isabela Garcia Tissianel
-Data: 
+Data: 28/10/2023
 Exercício: Programa 1 - Faça um Programa que leia uma lista de 5 números inteiros e mostre-os.
 """
 

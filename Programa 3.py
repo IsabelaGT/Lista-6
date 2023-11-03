@@ -1,6 +1,6 @@
 """
 Nome do desenvolvedor: Isabela Garcia Tissianel
-Data: 
+Data: 28/10/2023
 Exercício: Programa 3 - Faça um Programa que leia 4 notas, mostre as notas e a média na tela (utilizando lista).
 """
 
